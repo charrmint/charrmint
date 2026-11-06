@@ -1,9 +1,31 @@
 
-# Hey, I'm Ruther 👋
+<table>
+  <tr>
+    <td>
+      <h1>Hey, I'm Ruther 👋</h1>
+    </td>
+    <td align="right">
+      <a href="https://portfolio-charrmint.vercel.app/">Portfolio</a> ·
+      <a href="https://www.linkedin.com/in/rutherbc/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 I'm a software engineer and second-degree Computer Science student at the University of British Columbia. Before software, I studied mechanical engineering!
 
 I'm especially interested in backend engineering, platform infrastructure, databases, and building useful products from end to end. I've worked on production software at **Procurify** and **Trulioo**, and I enjoy contributing to multidisciplinary engineering teams.
+
+---
+
+## 🧰 Tools I work with
+
+**Languages:** Python, C#, TypeScript/JavaScript, SQL, Java, C++, Rust
+
+**Backend & data:** .NET, ASP.NET Core, Django, FastAPI, Node.js, PostgreSQL, MySQL, MongoDB
+
+**Frontend:** React, Next.js
+
+**Infrastructure & testing:** AWS, Docker, GitHub Actions, GitLab CI, CircleCI, xUnit, pytest, Vitest
 
 ---
 
@@ -12,10 +34,6 @@ I'm especially interested in backend engineering, platform infrastructure, datab
 **[Enter Mintvale — my interactive portfolio](https://portfolio-charrmint.vercel.app/)**
 
 Instead of a traditional résumé page, I built a small RPG-inspired village where you can create a traveler, explore my background, unlock stories, and browse a more direct **World Atlas** if you're short on time.
-
-**Built with:** HTML, CSS, vanilla JavaScript, SVG, and a dependency-free Node.js content build.
-
-[Source code](https://github.com/charrmint/portfolio-charrmint) · [LinkedIn](https://www.linkedin.com/in/rutherbc/)
 
 ---
 
@@ -131,21 +149,3 @@ A distributed connectivity-testing system where remote probes execute centrally 
 *Repository not yet public.*
 
 </details>
-
----
-
-## 🧰 Tools I work with
-
-**Languages:** Python, C#, TypeScript/JavaScript, SQL, Java, C++, Rust
-
-**Backend & data:** .NET, ASP.NET Core, Django, FastAPI, Node.js, PostgreSQL, MySQL, MongoDB
-
-**Frontend:** React, Next.js
-
-**Infrastructure & testing:** AWS, Docker, GitHub Actions, GitLab CI, CircleCI, xUnit, pytest, Vitest
-
----
-
-### 📬 Let's connect
-
-[Interactive portfolio](https://portfolio-charrmint.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rutherbc/)
