@@ -1,15 +1,8 @@
 
-<table>
-  <tr>
-    <td>
-      <h1>Hey, I'm Ruther 👋</h1>
-    </td>
-    <td align="right">
-      <a href="https://portfolio-charrmint.vercel.app/">Portfolio</a> ·
-      <a href="https://www.linkedin.com/in/rutherbc/">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+
+# Hey, I'm Ruther 👋
+
+🌐 [Portfolio](https://portfolio-charrmint.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/rutherbc/)
 
 I'm a software engineer and second-degree Computer Science student at the University of British Columbia. Before software, I studied mechanical engineering!
 
