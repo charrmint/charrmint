@@ -21,11 +21,14 @@ Instead of a traditional résumé page, I built a small RPG-inspired village whe
 
 ## 🚀 Things I've built
 
-### 🏋️ [RepPilot](https://github.com/charrmint/Rep-Pilot)
+<details open>
+<summary><b>🏋️ RepPilot</b> — Next.js · React · TypeScript · Supabase/PostgreSQL</summary>
+
+<br>
+
+**[Try the live app](https://rep-pilot.vercel.app/)** · **[Source code](https://github.com/charrmint/Rep-Pilot)**
 
 <sub>Next.js · React · TypeScript · Supabase/PostgreSQL · Tailwind CSS · Vitest</sub>
-
-**[Try the live app](https://rep-pilot.vercel.app/)**
 
 A mobile-first strength-training tracker that turns workout history into explainable, deterministic progression recommendations.
 
@@ -33,27 +36,48 @@ A mobile-first strength-training tracker that turns workout history into explain
 - Designed a pure double-progression engine that considers rep targets, effort, pain signals, and recent sessions to recommend increasing, maintaining, reducing, or reviewing a load.
 - Used Supabase Auth, row-level security, database constraints, and transactional RPCs to isolate user data and keep workout completion consistent.
 
----
+</details>
 
-### 🥬 [FoodRadar](https://github.com/charrmint/FoodRadar) — BCS Hacks 2025
+<br>
+
+<details>
+<summary><b>🥬 FoodRadar — BCS Hacks 2025</b> · React · Node.js · MongoDB</summary>
+
+<br>
+
+**[Source code](https://github.com/charrmint/FoodRadar)**
 
 <sub>React · Vite · Node.js · Express · MongoDB · Google Cloud Vision API · JWT / Google OAuth</sub>
 
 A smart-fridge proof of concept that makes it easier to track what's in your refrigerator. It supports manual inventory management and camera-assisted item recognition, using a webcam in place of an in-fridge camera for the prototype.
 
----
+</details>
 
-### 💼 [Job Hunting Assistant](https://github.com/charrmint/JobTrackerApp)
+<br>
+
+<details>
+<summary><b>💼 Job Hunting Assistant</b> — Java · Swing · JSON</summary>
+
+<br>
+
+**[Source code](https://github.com/charrmint/JobTrackerApp)**
 
 <sub>Java · Swing · JSON · JUnit</sub>
 
 A desktop application built to make my own internship search less spreadsheet-heavy. Organizes opportunities by application stage, supports status changes and transitions, and provides deadline/follow-up notifications with local save and load.
 
+</details>
+
 ---
 
 ## 🤝 Team projects & contributions
 
-### 🚣 [NABIL — Naval Architecture & Boat Innovation Lab](https://github.com/UBC-Concrete-Canoe/nabil-app)
+<details>
+<summary><b>🚣 NABIL — Naval Architecture & Boat Innovation Lab</b> · C++ · Qt · OpenCASCADE</summary>
+
+<br>
+
+**[View repository](https://github.com/UBC-Concrete-Canoe/nabil-app)**
 
 <sub>UBC Concrete Canoe · C++17 · Qt 6 · OpenCASCADE · VTK · CMake</sub>
 
@@ -64,9 +88,16 @@ A collaborative CAD-style hull-design application for naval architecture, connec
 - **Control-point interaction:** Implemented selection and movement of 3D control points using OpenCASCADE's interactive context, translating 2D mouse movements into 3D coordinates relative to the camera.
 - **UI and model integration:** Connected Qt mouse events to the underlying hull model, supporting distinct selection, movement, and viewport navigation modes.
 
----
+</details>
 
-### 🧠 [MOSS — EEG Signal Processing Platform](https://github.com/UBCMint/fullstack-moss-app)
+<br>
+
+<details>
+<summary><b>🧠 MOSS — EEG Signal Processing Platform</b> · Next.js · Rust · Python</summary>
+
+<br>
+
+**[View repository](https://github.com/UBCMint/fullstack-moss-app)**
 
 <sub>UBC MINT · Next.js · TypeScript · Rust · Python · WebSockets · TimescaleDB/PostgreSQL · Docker</sub>
 
@@ -79,9 +110,14 @@ A full-stack platform for configuring, streaming, processing, and visualizing EE
 - **Developer documentation:** Documented the Rust-to-Python processing bridge, processing modules, and CI workflows to make the architecture easier to understand and maintain.
 - **Editor navigation:** Implemented browser/OS Back behavior that closes chart preview without discarding the user's unsaved pipeline, with state synchronized to browser history.
 
----
+</details>
 
-### 🌐 Launchpad — Distributed Connectivity Testing
+<br>
+
+<details>
+<summary><b>🌐 Launchpad — Distributed Connectivity Testing</b> · Python · Docker · HTTP APIs</summary>
+
+<br>
 
 <sub>Python · Docker · HTTP APIs · GitHub webhooks · relational database design</sub>
 
@@ -93,6 +129,8 @@ A distributed connectivity-testing system where remote probes execute centrally 
 - **Test version management:** Designed a GitHub webhook-driven update mechanism where probes synchronize test scripts with the latest versions, tracking installed and executed commit SHAs for traceability and auditability.
 
 *Repository not yet public.*
+
+</details>
 
 ---
 
