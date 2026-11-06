@@ -24,7 +24,7 @@ I'm especially interested in backend engineering, platform infrastructure, datab
 
 ### 🗺️ Want a different kind of portfolio?
 
-**[Enter Mintvale — my interactive portfolio](https://portfolio-charrmint.vercel.app/)**
+**[Enter Mintvale - my interactive portfolio](https://portfolio-charrmint.vercel.app/)**
 
 Instead of a traditional résumé page, I built a small RPG-inspired village where you can create a traveler, explore my background, unlock stories, and browse a more direct **World Atlas** if you're short on time.
 
@@ -33,7 +33,7 @@ Instead of a traditional résumé page, I built a small RPG-inspired village whe
 ## 🚀 Things I've built
 
 <details>
-<summary><b>🏋️ RepPilot</b> — Next.js · React · TypeScript · Supabase/PostgreSQL</summary>
+<summary><b>🏋️ RepPilot</b> - Next.js · React · TypeScript · Supabase/PostgreSQL</summary>
 
 <br>
 
@@ -52,7 +52,7 @@ A mobile-first strength-training tracker that turns workout history into explain
 <br>
 
 <details>
-<summary><b>🥬 FoodRadar — BCS Hacks 2025</b> · React · Node.js · MongoDB</summary>
+<summary><b>🥬 FoodRadar - BCS Hacks 2025</b> · React · Node.js · MongoDB</summary>
 
 <br>
 
@@ -67,7 +67,7 @@ A smart-fridge proof of concept that makes it easier to track what's in your ref
 <br>
 
 <details>
-<summary><b>💼 Job Hunting Assistant</b> — Java · Swing · JSON</summary>
+<summary><b>💼 Job Hunting Assistant</b> - Java · Swing · JSON</summary>
 
 <br>
 
@@ -84,7 +84,7 @@ A desktop application built to make my own internship search less spreadsheet-he
 ## 🤝 Team projects & contributions
 
 <details>
-<summary><b>🚣 NABIL — Naval Architecture & Boat Innovation Lab</b> · C++ · Qt · OpenCASCADE</summary>
+<summary><b>🚣 NABIL - Naval Architecture & Boat Innovation Lab</b> · C++ · Qt · OpenCASCADE</summary>
 
 <br>
 
@@ -104,7 +104,7 @@ A collaborative CAD-style hull-design application for naval architecture, connec
 <br>
 
 <details>
-<summary><b>🧠 MOSS — EEG Signal Processing Platform</b> · Next.js · Rust · Python</summary>
+<summary><b>🧠 MOSS - EEG Signal Processing Platform</b> · Next.js · Rust · Python</summary>
 
 <br>
 
@@ -126,7 +126,7 @@ A full-stack platform for configuring, streaming, processing, and visualizing EE
 <br>
 
 <details>
-<summary><b>🌐 Launchpad — Distributed Connectivity Testing</b> · Python · Docker · HTTP APIs</summary>
+<summary><b>🌐 Launchpad - Distributed Connectivity Testing</b> · Python · Docker · HTTP APIs</summary>
 
 <br>
 
