@@ -21,7 +21,7 @@ Instead of a traditional résumé page, I built a small RPG-inspired village whe
 
 ## 🚀 Things I've built
 
-<details open>
+<details>
 <summary><b>🏋️ RepPilot</b> — Next.js · React · TypeScript · Supabase/PostgreSQL</summary>
 
 <br>
