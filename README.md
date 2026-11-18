@@ -67,6 +67,25 @@ A smart-fridge proof of concept that makes it easier to track what's in your ref
 <br>
 
 <details>
+<summary><b>🧸 OneKare - HackCamp 2026</b> · Ruby on Rails · Python · Databricks</summary>
+
+<br>
+
+**[Devpost](https://devpost.com/software/onekare)** · **[Source code](https://github.com/charrmint/nw-jrvh)**
+
+<sub>Ruby on Rails · Hotwire · Python · Playwright · Databricks Foundation Model APIs · Lakebase/PostgreSQL · Gmail API</sub>
+
+An AI-assisted daycare application platform that simplifies childcare enrollment by allowing parents to complete a single application per child and automatically apply to multiple daycare providers.
+
+- Designed a reusable application architecture supporting public forms, authenticated portals, and email-based waitlist requests.
+- Leveraged Databricks LLM APIs to map standardized application data to provider-specific form fields.
+- Used Python and Playwright for browser automation and Lakebase for centralized application data storage.
+
+</details>
+
+<br>
+
+<details>
 <summary><b>💼 Job Hunting Assistant</b> - Java · Swing · JSON</summary>
 
 <br>
