@@ -52,21 +52,6 @@ A mobile-first strength-training tracker that turns workout history into explain
 <br>
 
 <details>
-<summary><b>🥬 FoodRadar - BCS Hacks 2025</b> · React · Node.js · MongoDB</summary>
-
-<br>
-
-**[Source code](https://github.com/charrmint/FoodRadar)**
-
-<sub>React · Vite · Node.js · Express · MongoDB · Google Cloud Vision API · JWT / Google OAuth</sub>
-
-A smart-fridge proof of concept that makes it easier to track what's in your refrigerator. It supports manual inventory management and camera-assisted item recognition, using a webcam in place of an in-fridge camera for the prototype.
-
-</details>
-
-<br>
-
-<details>
 <summary><b>🧸 OneKare - HackCamp 2026</b> · Ruby on Rails · Python · Databricks</summary>
 
 <br>
@@ -80,6 +65,21 @@ An AI-assisted daycare application platform that simplifies childcare enrollment
 - Designed a reusable application architecture supporting public forms, authenticated portals, and email-based waitlist requests.
 - Leveraged Databricks LLM APIs to map standardized application data to provider-specific form fields.
 - Used Python and Playwright for browser automation and Lakebase for centralized application data storage.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🥬 FoodRadar - BCS Hacks 2025</b> · React · Node.js · MongoDB</summary>
+
+<br>
+
+**[Source code](https://github.com/charrmint/FoodRadar)**
+
+<sub>React · Vite · Node.js · Express · MongoDB · Google Cloud Vision API · JWT / Google OAuth</sub>
+
+A smart-fridge proof of concept that makes it easier to track what's in your refrigerator. It supports manual inventory management and camera-assisted item recognition, using a webcam in place of an in-fridge camera for the prototype.
 
 </details>
 
